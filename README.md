@@ -4,7 +4,7 @@ A modern, AI-powered tool that helps developers create beautiful and professiona
 
 ## 🎥 Preview
 
-![README Generator Demo](https://res.cloudinary.com/daspunqvs/video/upload/v1759674221/Screen_Recording_2025-10-05_195303_xznitf.mp4)
+![README Generator Demo](/PREVIEW.png)
 
 *🎬 Click the image above to watch the demo - the video will open in a new tab and play automatically*
 
