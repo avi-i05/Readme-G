@@ -4,12 +4,9 @@ A modern, AI-powered tool that helps developers create beautiful and professiona
 
 ## 🎥 Preview
 
-<video autoplay loop muted playsinline width="100%" style="border-radius: 8px; margin: 20px 0;">
-  <source src="https://res.cloudinary.com/daspunqvs/video/upload/v1759674221/Screen_Recording_2025-10-05_195303_xznitf.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![README Generator Demo](https://res.cloudinary.com/daspunqvs/video/upload/v1759674221/Screen_Recording_2025-10-05_195303_xznitf.mp4)
 
-*Watch the README Generator in action!*
+*🎬 Click the image above to watch the demo - the video will open in a new tab and play automatically*
 
 ## ✨ Features
 
