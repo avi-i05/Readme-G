@@ -559,9 +559,9 @@ export function ProfileGeneratorForm({ onGenerate, selectedTemplate = 'minimalis
     }
     readme += `⭐️ *From [${formData.name || 'Your Name'}](${formData.github || '#'})*`;
     // Add enhanced footer with promotional links
-    readme += `\n\n---\n\n<div align="center">\n\n## 🌟 Crafted with ❤️\n\n*This README was generated using **[README Generator](https://readme-generator.dev)** - The ultimate tool for creating stunning GitHub profile READMEs!*\n\n### 💡 Want to create your own amazing README?
+    readme += `\n\n---\n\n<div align="center">\n\n## 🌟 Crafted with ❤️\n\n*This README was generated using **[README Generator](https://readme-g.vercel.app/)** - The ultimate tool for creating stunning GitHub profile READMEs!*\n\n### 💡 Want to create your own amazing README?
 
-[![Try README Generator](https://img.shields.io/badge/Try%20README%20Generator-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://readme-generator.dev)
+[![Try README Generator](https://img.shields.io/badge/Try%20README%20Generator-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://readme-g.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Follow%20Creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avi-i05)
 
 ---
