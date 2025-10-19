@@ -1,6 +1,6 @@
 # 📝 README Generator
 
-A modern, AI-powered tool that helps developers create beautiful and professional README files for their GitHub profiles and projects with ease. Streamline your documentation process and make your GitHub profile stand out with minimal effort.
+A moderntool that helps developers create beautiful and professional README files for their GitHub profiles and projects with ease. Streamline your documentation process and make your GitHub profile stand out with minimal effort.
 
 ## 🎥 Preview
 
