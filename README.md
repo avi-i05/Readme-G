@@ -4,9 +4,9 @@ A modern, AI-powered tool that helps developers create beautiful and professiona
 
 ## 🎥 Preview
 
-![README Generator Demo](/PREVIEW.png)
+![README Generator Screenshot](PREVIEW.png)
 
-*🎬 Click the image above to watch the demo - the video will open in a new tab and play automatically*
+*Screenshot of the README Generator interface*
 
 ## ✨ Features
 
