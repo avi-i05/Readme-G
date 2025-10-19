@@ -4,7 +4,7 @@ A modern, AI-powered tool that helps developers create beautiful and professiona
 
 ## 🎥 Preview
 
-![README Generator Screenshot](PREVIEW.png)
+![README Generator Screenshot](public/PREVIEW.png)
 
 *Screenshot of the README Generator interface*
 
