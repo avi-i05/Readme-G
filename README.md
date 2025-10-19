@@ -49,8 +49,8 @@ A modern, AI-powered tool that helps developers create beautiful and professiona
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/readme-generator.git
-   cd readme-generator/frontend
+   git clone https://github.com/avi-i05/Readme-G.git
+   cd Readme-G/frontend
    ```
 
 2. Install dependencies:
