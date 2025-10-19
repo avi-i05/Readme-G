@@ -344,7 +344,7 @@ export function ProjectGeneratorForm({ onGenerate }) {
     }
 
     readme += `\n---\n\n`;
-    readme += `<div align="center">\n\n## 🌟 Crafted with ❤️\n\n*This README was generated using **[README Generator](https://readme-generator.dev)** - The ultimate tool for creating stunning GitHub project READMEs!*\n\n### 💡 Want to create your own amazing README?\n\n[![Try README Generator](https://img.shields.io/badge/Try%20README%20Generator-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://readme-generator.dev)\n[![GitHub](https://img.shields.io/badge/Follow%20Creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avi-i05)\n\n---\n\n</div>`;
+    readme += `<div align="center">\n\n## 🌟 Crafted with ❤️\n\n*This README was generated using **[README Generator](https://readme-g.vercel.app/)** - The ultimate tool for creating stunning GitHub project READMEs!*\n\n### 💡 Want to create your own amazing README?\n\n[![Try README Generator](https://img.shields.io/badge/Try%20README%20Generator-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://readme-g.vercel.app/)\n[![GitHub](https://img.shields.io/badge/Follow%20Creator-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avi-i05)\n\n---\n\n</div>`;
 
     return readme;
   };
